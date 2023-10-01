@@ -1,8 +1,8 @@
 
-# Hey, I'm Darshil Patel! 👋
+# Hey, I'm Darshil Patel! 
 
 
-## 🚀 About Me
+##  About Me
 I'm a Freelancer and Full stack developer...
 
 
@@ -10,7 +10,7 @@ I'm a Freelancer and Full stack developer...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-## 🛠 Skills
+##  Skills
 
 * Advanced Python Programming
 # Python Game
@@ -21,6 +21,10 @@ I'm a Freelancer and Full stack developer...
 
 
   ## This game was created to showcase my Python skill
+
+## Screenshot
+
+![PythonGame](https://github.com/darshilptl/Game-In-Python/assets/105098994/a9d66d32-47ca-4fd8-b0d6-53dc479258ee)
 
 
 ## Appendix
